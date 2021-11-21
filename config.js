@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Tớ biết mà, wuy cũng thích nọc lắm 🥰. Love you 300.000 😘😘',
     messDesc: '💬💬 Nhắn tin cho tớ nha. 💬💬',
     btnAccept: 'Dạ cậu iu 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    messLink: 'https://www.facebook.com/profile.php?id=100047691349569'
 }
